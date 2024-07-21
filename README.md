@@ -2,9 +2,11 @@
   <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=Hello+there%2C+I'm+Franklin" />
 </h1>
 
-- 🌱 I am currently studying Dart and focused on obtaining my degree;
-- ⚡ Fact about me: I love to draw and I'm a cat person;
-- 🥅 2024 Goals: Keep learning more.
+### I am a computer scientist👋
+
+- 🔭 I'm currently working as a scholarship holder at the Video Technology Research Group - ViTech at the Federal University of Pelotas - UFPEL
+- 🌱 I'm currently learning about video coding using the VVC standard
+- 👯 I'm collaborating on research on MCM approaches for the DST-VII and DCT-VIII transforms of the VVC standard.
 
 ## Languages and Tools
 <div align="center">
