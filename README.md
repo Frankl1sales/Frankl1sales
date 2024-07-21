@@ -18,7 +18,7 @@ I am a computer scientist in training, specializing in:
 
 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/) or 
 ```sh via gmail:
-fsoliveira@inf.ufpel.edu.br.
+fsoliveira@inf.ufpel.edu.br
 ```
 
 
