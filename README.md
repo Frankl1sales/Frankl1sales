@@ -9,7 +9,7 @@
 ## Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,angular,nodejs,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=c,csharp,java,python,mysql,postgres,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,java,python,mysql,postgres,git" /><br>
 </div>
 
 ## Github stats
