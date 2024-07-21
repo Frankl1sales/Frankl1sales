@@ -20,5 +20,5 @@
 ## Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/franklin-oliveira12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviofsantos" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/oittavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oittavio" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/frankl_sales/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oittavio" height="30" width="40" /></a>
 </p>
