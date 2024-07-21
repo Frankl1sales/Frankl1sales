@@ -2,12 +2,21 @@
   <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=Hello+there%2C+I'm+Franklin" />
 </h1>
 
-### I am a computer scientist👋
+### About Me
 
-- 🔭 I'm currently working as a scholarship holder at the Video Technology Research Group - ViTech at the Federal University of Pelotas - UFPEL
-- 🌱 I'm currently learning about video coding using the VVC standard
-- 👯 I'm collaborating on research on MCM approaches for the DST-VII and DCT-VIII transforms of the VVC standard.
+I am a computer scientist in training, specializing in:
 
+- **Computer Vision** 🖼️
+- **Natural Language Processing (NLP)** 📚
+- **360-Degree Video Complexity Reduction** 🎥
+
+### Current Work
+
+- 🔭 I'm currently working as a scholarship holder at the Video Technology Research Group (ViTech) at the Federal University of Pelotas (UFPEL).
+- 🌱 I'm learning about video coding using the VVC standard.
+- 👯 I'm collaborating on research focused on MCM approaches for the DST-VII and DCT-VIII transforms of the VVC standard.
+
+Feel free to connect with me through the links above!
 ## Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,javascript,angular,nodejs,anaconda,html,css,wordpress" /><br>
