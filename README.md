@@ -16,7 +16,9 @@ I am a computer scientist in training, specializing in:
 - 🌱 I'm learning about video coding using the VVC standard.
 - 👯 I'm collaborating on research focused on MCM approaches for the DST-VII and DCT-VIII transforms of the VVC standard.
 
-Feel free to connect with me through the links above!
+📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/) or [Email](mailto:fsoliveira@inf.ufpel.edu.br.com).
+
+🔗 Check out my [portfolio](https://your-portfolio.com) for more about my work and projects.
 ## Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,haskell,javascript,angular,nodejs,anaconda,html,css,wordpress" /><br>
