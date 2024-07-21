@@ -10,7 +10,7 @@
 
 ## Languages and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,javascript,angular,nodejs,anaconda,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,javascript,angular,nodejs,anaconda,html,css,wordpress" /><br>
     <img src="https://skillicons.dev/icons?i=cmake,c,cs,java,python,mysql,postgres,git,github" /><br>
 </div>
 
