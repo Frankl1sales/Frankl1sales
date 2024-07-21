@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=435&lines=Transforming+Ideas+into+Code" />
+  <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Transforming+Ideas+into+Code" />
 </h1>
 
 ### About Me
