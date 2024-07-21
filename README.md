@@ -29,7 +29,6 @@ Feel free to connect with me through the links above!
 </div>
 
 ## Contact me
-## Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/franklin-oliveira12/" target="blank">
