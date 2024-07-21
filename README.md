@@ -8,7 +8,7 @@
 
 ## Languages and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,css,angular,react,vue,nextjs,nodejs,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,angular,nodejs,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=c,java,python,mysql,postgres,git" /><br>
 </div>
 
