@@ -22,7 +22,7 @@ I am a computer scientist in training, specializing in:
 ## Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,haskell,javascript,angular,nodejs,anaconda,html,css,wordpress" /><br>
-    <img src="https://skillicons.dev/icons?i=cmake,c,cs,java,python,mysql,postgres,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=cmake,c,rust,cs,java,python,mysql,postgres,git,github" /><br>
 </div>
 
 ## Github stats
