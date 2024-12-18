@@ -2,6 +2,8 @@
   <img src = "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Transforming+Ideas+into+Code" />
 </h1>
 
+https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats
+
 ### About Me
 
 I am a computer scientist in training, specializing in:
