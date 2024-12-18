@@ -28,9 +28,7 @@ I am a computer scientist in training, specializing in:
 
 ## Github stats
 <div align=center>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Frankl1sales&theme=buefy-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Frankl1sales&theme=buefy-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 ## Contact me
