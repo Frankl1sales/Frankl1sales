@@ -17,7 +17,8 @@ I am a computer scientist in training, specializing in:
 - 👯 I'm collaborating on research focused on MCM approaches for the DST-VII and DCT-VIII transforms of the VVC standard.
 
 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/) or email me directly at `fsoliveira@inf.ufpel.edu.br`.
-  [Lattes]([https://www.linkedin.com/in/franklin-oliveira12/](https://lattes.cnpq.br/2871228093388049))
+  [Lattes](https://lattes.cnpq.br/2871228093388049)
+  
 🔗 Check out my [portfolio](https://your-portfolio.com) for more about my work and projects.
 
 ## Languages and Tools
