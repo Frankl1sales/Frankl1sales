@@ -51,5 +51,6 @@ I am a computer scientist in training, specializing in:
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Frankl1sales&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frankl1sales&exclude=PullRequestReview)](https://github.com/ryo-ma/github-profile-trophy)
+
 
