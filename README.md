@@ -48,3 +48,8 @@ I am a computer scientist in training, specializing in:
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Frankl1sales&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
