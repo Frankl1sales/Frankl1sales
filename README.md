@@ -50,7 +50,7 @@ I am a computer scientist in training, specializing in:
 </p>
 
 # 🏆 GitHub Trophies
-
+![trophy](https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Frankl1sales&exclude=PullRequestReview)](https://github.com/ryo-ma/github-profile-trophy)
 
 
