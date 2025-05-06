@@ -4,6 +4,14 @@
 
 ---
 
+### 🧩 3D Contribution Graph
+
+![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
+
+![trophy](https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### 👨‍💻 About Me
 
 I'm currently in the final semester of my **Computer Science** degree at the **Federal University of Pelotas (UFPel)**. I'm passionate about how computational systems generate, process, and interpret images - especially in the context of video compression and coding.
@@ -58,9 +66,3 @@ Additionally, I work as an **Intern in Image Processing and Computer Vision** at
 </div>
 
 ---
-
-### 🧩 3D Contribution Graph
-
-![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
-
-![trophy](https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg)
