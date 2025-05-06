@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm currently in the final semester of my **Computer Science** degree at the **Federal University of Pelotas (UFPel)**. I'm passionate about how computational systems generate, process, and interpret images — especially in the context of video compression and coding.
+I'm currently in the final semester of my **Computer Science** degree at the **Federal University of Pelotas (UFPel)**. I'm passionate about how computational systems generate, process, and interpret images - especially in the context of video compression and coding.
 
 As a **Scientific Initiation Scholar** at **ViTech (Video Technology Research Group – UFPel)**, I conduct research on the **Versatile Video Coding (VVC)** standard, with a focus on optimizing **intra-frame coding for 360º videos** using machine learning and lightweight models. I'm working toward integrating these methods into the **VVC Test Model (VTM)**. I have also explored **Multiple Constant Multiplication (MCM)** approaches for **DST-VII** and **DCT-VIII** transforms. These efforts have led to **publications accepted** at events like **LASCAS 2025** and **WebMedia 2024**.
 
