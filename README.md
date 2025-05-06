@@ -5,7 +5,7 @@
 ### About Me
 ## 🧩 Meu Gráfico de Contribuições 3D
 
-![3D Contributions](./profile-3d-contrib/night-green.svg)
+![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
 I am a computer scientist in training, specializing in:
 
