@@ -31,7 +31,8 @@ Additionally, I work as an **Intern in Image Processing and Computer Vision** at
 ### 🌐 Let's Connect
 
 📫 Feel free to reach out to me:  
-- [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)  
+- [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
+- [Portfolio](https://portfolio-frank-seven.vercel.app/)
 - 📧 `fsoliveira@inf.ufpel.edu.br`  
 - [Lattes CV](https://lattes.cnpq.br/2871228093388049)  
 - [YouTube](https://www.youtube.com/@franklinsalesdeoliveira472)  
