@@ -3,11 +3,11 @@
 </h1>
 
 ### About Me
-## 🧩 My 3D Contribution Graph
+## 🧩 Meu Gráfico de Contribuições 3D
 
 ![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
-I am currently pursuing a Computer Science degree at the Federal University of Pelotas (UFPel), with a focus on the following areas:
+I am a computer scientist in training, specializing in:
 
 - **Computer Vision** 🖼️
 - **Natural Language Processing (NLP)** 📚
@@ -15,14 +15,14 @@ I am currently pursuing a Computer Science degree at the Federal University of P
 
 ### Current Work
 
-- 🔭 I am a scientific initiation scholarship holder at the **Video Technology Research Group (ViTech)** at UFPel, where I am involved in research on the **Versatile Video Coding (VVC)** standard.
-- 🌱 My current research interests include optimizing intra-frame techniques and exploring **Multiple Constant Multiplication (MCM)** approaches for **DST-VII** and **DCT-VIII** transforms in VVC.
-- 👯 I am actively contributing to projects and collaborations that explore innovations in **video compression** and **coding**.
+- 🔭 I'm currently working as a scholarship holder at the Video Technology Research Group (ViTech) at the Federal University of Pelotas (UFPEL).
+- 🌱 I'm learning about video coding using the VVC standard.
+- 👯 I'm collaborating on research focused on MCM approaches for the DST-VII and DCT-VIII transforms of the VVC standard.
 
-Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/) or email me directly at `fsoliveira@inf.ufpel.edu.br`.
-You can also access my full academic profile on [Lattes](https://lattes.cnpq.br/2871228093388049).
-
-🔗 To learn more about my work and projects, visit my [portfolio](https://your-portfolio.com).
+📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/) or email me directly at `fsoliveira@inf.ufpel.edu.br`.
+  [Lattes](https://lattes.cnpq.br/2871228093388049)
+  
+🔗 Check out my [portfolio](https://your-portfolio.com) for more about my work and projects.
 
 ## Languages and Tools
 <div align="center">
@@ -30,12 +30,12 @@ You can also access my full academic profile on [Lattes](https://lattes.cnpq.br/
     <img src="https://skillicons.dev/icons?i=cmake,c,rust,cs,java,python,mysql,postgres,git,github" /><br>
 </div>
 
-## GitHub Stats
+## Github stats
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Frankl1sales&theme=buefy-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
-## Contact Me
+## Contact me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/franklin-oliveira12/" target="blank">
@@ -53,3 +53,4 @@ You can also access my full academic profile on [Lattes](https://lattes.cnpq.br/
 </p>
 
 ![trophy](https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg)
+
