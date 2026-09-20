@@ -36,24 +36,28 @@ Earlier research on **VVC**, built on **VTM 23.10 + 360Lib 13.6**, focused on ML
 Beyond models themselves, I build the infrastructure around them: experiment automation, benchmarking pipelines, reproducible results, and tooling for organizing scientific work, turning complex research into systems that can be run, checked, and extended.
 
 ---
-
 ### 🧰 Technical Toolkit
 
-**AI / Machine Learning**
-`Python` `PyTorch` `ONNX` `TensorFlow` `scikit-learn` `NumPy`
+**Languages**
+`Python` `C++` `C` `Bash`
+
+**AI & Machine Learning**
+`PyTorch` `ONNX` `TensorFlow` `scikit-learn` `NumPy` 
 
 **Computer Vision**
-`OpenCV` `XFeat` · feature detection/description/matching · object detection · tracking · image processing
+`OpenCV` `scikit-image` `XFeat` `YOLO` `DeepSORT` · feature detection/description/matching · object detection · tracking · image processing
 
 **Efficient AI / Edge AI**
 `RKNN` · Rockchip NPU (`RV1103`) · INT8 quantization · ONNX deployment · embedded inference · hardware-aware optimization
 
-**Research Engineering**
-`Docker` `Linux` `Bash` `Git` `GitHub` — experiment automation, benchmarking, reproducible research
+**Video Coding (VVC)**
+`VTM` `360Lib` · intra prediction · transform coding · Multiple Constant Multiplication (MCM)
 
-**Backend / AI Infrastructure**
-`FastAPI` `Flask` `SQLite` `ChromaDB` `Ollama` — local LLMs, RAG
+**Backend & AI Infrastructure**
+`FastAPI` `Flask` `SQLite` `ChromaDB` `Ollama` · local LLMs · RAG
 
+**Research Engineering & Tools**
+`Docker` `Linux` `Git` `GitHub` `VS Code` `GitHub Copilot` · experiment automation · benchmarking · reproducible research
 ---
 
 
