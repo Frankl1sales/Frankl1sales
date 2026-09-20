@@ -33,7 +33,7 @@ Earlier research on **VVC**, built on **VTM 23.10 + 360Lib 13.6**, focused on ML
 
 ### 🛠️ Research Engineering
 
-Beyond models themselves, I build the infrastructure around them: experiment automation, benchmarking pipelines, reproducible results, and tooling for organizing scientific work — turning complex research into systems that can be run, checked, and extended.
+Beyond models themselves, I build the infrastructure around them: experiment automation, benchmarking pipelines, reproducible results, and tooling for organizing scientific work, turning complex research into systems that can be run, checked, and extended.
 
 ---
 
