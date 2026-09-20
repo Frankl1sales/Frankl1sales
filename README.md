@@ -27,7 +27,8 @@ Investigating the deployment of **XFeat**, a lightweight local feature extractio
 **Feature Matching Research (broader line of work)**
 This project is evolving into a wider research direction on efficient feature matching, covering local feature detection/description, contrastive and information-theoretic perspectives on feature selection, robustness under quantization, and hardware-aware neural network optimization.
 
-**Video Coding / Versatile Video Coding (VVC)** — prior research line
+**Video Coding / Versatile Video Coding (VVC)** 
+Prior research line
 Earlier research on **VVC**, built on **VTM 23.10 + 360Lib 13.6**, focused on ML-assisted **intra prediction for 360° video** and transform-coding optimization (**DST-VII / DCT-VIII**, **Multiple Constant Multiplication**). This work produced **FastMIP-360**, achieving roughly **5.74% encoding time reduction** at approximately **+0.171% BD-BR**, and led to accepted publications at **LASCAS 2025** and **WebMedia 2024**. This line laid the groundwork for my current focus on efficient, hardware-aware vision systems.
 
 
