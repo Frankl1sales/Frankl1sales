@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science graduate, currently a **Master's student in Computer Science** at the **Department of Computer Science, Federal University of Minas Gerais (DCC/UFMG)**, affiliated with **(VeRLab) Laboratory for Computer Vision and Robotics**.
+I'm a Computer Science graduate, currently a **Master's student in Computer Science** at the **Department of Computer Science, Federal University of Minas Gerais (DCC/UFMG)**, affiliated with **Laboratory for Computer Vision and Robotics (VeRLab)**.
 
 My research sits at the intersection of:
 
