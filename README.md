@@ -56,24 +56,13 @@ Beyond models themselves, I build the infrastructure around them: experiment aut
 
 ---
 
-### 🛠️ Languages and Tools
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,scikit-learn,html,css,js,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,haskell,bash,mysql,postgres,git,github" /><br>
-</div>
-
----
 
 ### 🌐 Let's Connect
 
 📫 Feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
 - [Portfolio](https://portfolio-frank-seven.vercel.app/)
-- 📧 `fsoliveira@inf.ufpel.edu.br`
 - [Lattes CV](https://lattes.cnpq.br/2871228093388049)
-- [YouTube](https://www.youtube.com/@franklinsalesdeoliveira472)
-- [Instagram](https://www.instagram.com/frankl_sales/)
 
 ---
 
