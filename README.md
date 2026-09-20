@@ -64,10 +64,11 @@ Beyond models themselves, I build the infrastructure around them: experiment aut
 
 ### 🌐 Let's Connect
 
-📫 Feel free to reach out:
-- [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
-- [Portfolio](https://portfolio-frank-seven.vercel.app/)
-- [Lattes CV](https://lattes.cnpq.br/2871228093388049)
+📫 **Feel free to reach out:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
+- 🌐 [Portfolio](https://portfolio-frank-seven.vercel.app/)
+- 📜 [Currículo Lattes](https://lattes.cnpq.br/2871228093388049)
+- 🆔 [ORCID](https://orcid.org/0000-0002-0426-6733)
 
 ---
 
