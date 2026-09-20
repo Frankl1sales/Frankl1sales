@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science graduate (Federal University of Pelotas — UFPel, 2025), currently a **Master's student in Computer Science** at the **Department of Computer Science, Federal University of Minas Gerais (DCC/UFMG)**, affiliated with **VeRLab — Laboratory for Computer Vision and Robotics**, under the supervision of **Prof. Erickson Rangel do Nascimento**.
+I'm a Computer Science graduate, currently a **Master's student in Computer Science** at the **Department of Computer Science, Federal University of Minas Gerais (DCC/UFMG)**, affiliated with **VeRLab — Laboratory for Computer Vision and Robotics**.
 
 My research sits at the intersection of:
 
@@ -15,7 +15,7 @@ Computer Science → Computer Vision → Video Coding / Image Processing
         → Feature Matching → Efficient AI → Edge / Embedded AI → Research Engineering
 ```
 
-I work on making learned vision systems — from local feature matchers to video codecs — understand, run, and hold up under real computational constraints: limited memory, quantized weights, and NPUs instead of GPUs.
+I work on making learned vision systems, from local feature matchers, understand, run, and hold up under real computational constraints: limited memory, quantized weights, and NPUs instead of GPUs.
 
 ---
 
@@ -30,13 +30,6 @@ This project is evolving into a wider research direction on efficient feature ma
 **Video Coding / Versatile Video Coding (VVC)** — prior research line
 Earlier research on **VVC**, built on **VTM 23.10 + 360Lib 13.6**, focused on ML-assisted **intra prediction for 360° video** and transform-coding optimization (**DST-VII / DCT-VIII**, **Multiple Constant Multiplication**). This work produced **FastMIP-360**, achieving roughly **5.74% encoding time reduction** at approximately **+0.171% BD-BR**, and led to accepted publications at **LASCAS 2025** and **WebMedia 2024**. This line laid the groundwork for my current focus on efficient, hardware-aware vision systems.
 
----
-
-### 🧭 Emerging Interest
-
-I'm exploring how large scientific codebases (e.g., **VTM**, **VVC**, **VVenC**) could be represented through **semantic / graph-based structures** — code knowledge graphs, LLM-assisted code analysis, and automated documentation — as an alternative to navigating thousands of lines of source directly. This is an early-stage, exploratory interest rather than an active project or publication.
-
----
 
 ### 🛠️ Research Engineering
 
