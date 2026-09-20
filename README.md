@@ -22,7 +22,7 @@ I work on making learned vision systems, from local feature matchers, understand
 ### 🔬 Current Research
 
 **Feature Matching on Embedded Hardware (XFeat on the edge)**
-Investigating the deployment of **XFeat**, a lightweight local feature extraction/matching network, on extremely resource-constrained hardware — the **Luckfox Pico (Rockchip RV1103)** — running inference on its **NPU without relying on a GPU**. This involves the full pipeline and its failure modes: PyTorch → ONNX → RKNN conversion, **INT8 quantization**, operator compatibility, memory limitations, and numerical behavior across stages. I run systematic experiments comparing PyTorch, ONNX, and on-device NPU outputs to understand *why* specific components of the model degrade after quantization and deployment.
+Investigating the deployment of **XFeat**, a lightweight local feature extraction/matching network, on extremely resource-constrained hardware, the **Luckfox Pico (Rockchip RV1103)**, running inference on its **NPU without relying on a GPU**. This involves the full pipeline and its failure modes: PyTorch → ONNX → RKNN conversion, **INT8 quantization**, operator compatibility, memory limitations, and numerical behavior across stages. I run systematic experiments comparing PyTorch, ONNX, and on-device NPU outputs to understand *why* specific components of the model degrade after quantization and deployment.
 
 **Feature Matching Research (broader line of work)**
 This project is evolving into a wider research direction on efficient feature matching — covering local feature detection/description, contrastive and information-theoretic perspectives on feature selection, robustness under quantization, and hardware-aware neural network optimization.
