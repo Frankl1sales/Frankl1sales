@@ -1,51 +1,73 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Transforming+Ideas+into+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Computer+Vision+%7C+Feature+Matching+%7C+Efficient+AI;Video+Coding+%E2%86%92+Edge+AI+Research" />
 </h1>
+
+<p align="center">
+  <b>Computer Science Researcher — Computer Vision, Feature Matching & Efficient/Edge AI</b>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm currently in the final semester of my **Computer Science** degree at the **Federal University of Pelotas (UFPel)**. I'm passionate about how computational systems generate, process, and interpret images - especially in the context of video compression and coding.
+I'm a Computer Science graduate (Federal University of Pelotas — UFPel, 2025), currently a **Master's student in Computer Science** at the **Department of Computer Science, Federal University of Minas Gerais (DCC/UFMG)**, affiliated with **VeRLab — Laboratory for Computer Vision and Robotics**.
 
-As a **Scientific Initiation Scholar** at **ViTech (Video Technology Research Group – UFPel)**, I conduct research on the **Versatile Video Coding (VVC)** standard, with a focus on optimizing **intra-frame coding for 360º videos** using machine learning and lightweight models. I'm working toward integrating these methods into the **VVC Test Model (VTM)**. I have also explored **Multiple Constant Multiplication (MCM)** approaches for **DST-VII** and **DCT-VIII** transforms. These efforts have led to **publications accepted** at events like **LASCAS 2025** and **WebMedia 2024**.
+My research sits at the intersection of:
 
-In parallel, I collaborate with the **Cybersecurity Research Group** and the **Veterinary Epidemiology Lab** at UFPel, applying **AI and NLP** to **predictive epidemiology** and **disease historiography**, particularly focusing on **arboviruses**.
+```
+Computer Science → Computer Vision → Video Coding / Image Processing
+        → Feature Matching → Efficient AI → Edge / Embedded AI → Research Engineering
+```
 
-Additionally, I work as an **Intern in Image Processing and Computer Vision** at **Primeira Mesa**, where I develop applications using:
-- 🟢 **YOLO** for object detection  
-- 🟣 **DeepSORT** for multi-object tracking  
-- 🔵 **TensorFlow**, **PyTorch**, and **scikit-image** for model training and deep learning tasks  
-- 🟡 **OpenCV**, **NumPy**, and other visual data processing tools  
+I work on making learned vision systems, from local feature matchers, understand, run, and hold up under real computational constraints: limited memory, quantized weights, and NPUs instead of GPUs.
 
 ---
 
-### 🧪 Current Projects & Interests
-- 🎓 VVC intra prediction for 360º videos
-- 🔬 Lightweight ML models for integration in video encoders
-- 🧠 NLP + AI for health and epidemiological data
-- 🧩 Deep learning for object detection, segmentation, and tracking
+### 🔬 Current Research
+
+**Feature Matching on Embedded Hardware (XFeat on the edge)**
+Investigating the deployment of **XFeat**, a lightweight local feature extraction/matching network, on extremely resource-constrained hardware, the **Luckfox Pico (Rockchip RV1103)** — running inference on its **NPU without relying on a GPU**. This involves the full pipeline and its failure modes: PyTorch → ONNX → RKNN conversion, **INT8 quantization**, operator compatibility, memory limitations, and numerical behavior across stages. I run systematic experiments comparing PyTorch, ONNX, and on-device NPU outputs (heatmaps, descriptors, NMS behavior) to understand *why* specific components of the model degrade after quantization and deployment.
+
+**Feature Matching Research (broader line of work)**
+This project is evolving into a wider research direction on efficient feature matching — covering local feature detection/description, contrastive and information-theoretic perspectives on feature selection, robustness under quantization, and hardware-aware neural network optimization. 
+
+**Video Coding / Versatile Video Coding (VVC)** — prior research line
+Earlier research on **VVC**, built on **VTM 23.10 + 360Lib 13.6**, focused on ML-assisted **intra prediction for 360° video** and transform-coding optimization (**DST-VII / DCT-VIII**, **Multiple Constant Multiplication**). This work produced **FastMIP-360**, achieving roughly **5.74% encoding time reduction** at approximately **+0.171% BD-BR**, and led to accepted publications at **LASCAS 2025** and **WebMedia 2024**. This line laid the groundwork for my current focus on efficient, hardware-aware vision systems.
+
+
+### 🛠️ Research Engineering
+
+Beyond models themselves, I build the infrastructure around them: experiment automation, benchmarking pipelines, reproducible results, and tooling for organizing scientific work — turning complex research into systems that can be run, checked, and extended.
+
+---
+
+### 🧰 Technical Toolkit
+
+**AI / Machine Learning**
+`Python` `PyTorch` `ONNX` `TensorFlow` `scikit-learn` `NumPy`
+
+**Computer Vision**
+`OpenCV` `XFeat` · feature detection/description/matching · object detection · tracking · image processing
+
+**Efficient AI / Edge AI**
+`RKNN` · Rockchip NPU (`RV1103`) · INT8 quantization · ONNX deployment · embedded inference · hardware-aware optimization
+
+**Research Engineering**
+`Docker` `Linux` `Bash` `Git` `GitHub` — experiment automation, benchmarking, reproducible research
+
+**Backend / AI Infrastructure**
+`FastAPI` `Flask` `SQLite` `ChromaDB` `Ollama` — local LLMs, RAG
 
 ---
 
 ### 🌐 Let's Connect
 
-📫 Feel free to reach out to me:  
+📫 Feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
 - [Portfolio](https://portfolio-frank-seven.vercel.app/)
-- 📧 `fsoliveira@inf.ufpel.edu.br`  
-- [Lattes CV](https://lattes.cnpq.br/2871228093388049)  
-- [YouTube](https://www.youtube.com/@franklinsalesdeoliveira472)  
-- [Instagram](https://www.instagram.com/frankl_sales/)  
-
----
-
-### 🛠️ Languages and Tools
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,scikit-learn,html,css,js,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,haskell,bash,mysql,postgres,git,github" /><br>
-</div>
+- [Lattes CV](https://lattes.cnpq.br/2871228093388049)
+- [YouTube](https://www.youtube.com/@franklinsalesdeoliveira472)
+- [Instagram](https://www.instagram.com/frankl_sales/)
 
 ---
 
