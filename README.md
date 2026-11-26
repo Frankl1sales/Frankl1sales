@@ -1,57 +1,28 @@
 # Franklin Sales de Oliveira
 
-**Visual Computing Researcher | Image Processing, Video Coding & Hardware-Aware AI**
+**MSc Researcher in Computer Science (UFMG / VeRLab)**  
+*Computer Vision · Efficient Deep Learning · Embedded AI · Video Coding*
 
-MSc student in Computer Science at the **Federal University of Minas Gerais (UFMG)**, affiliated with the **Laboratory for Computer Vision and Robotics (VeRLab)**.
+I research how visual computing systems—from classical video coding to learned local visual features—behave under strict computational, memory, and hardware constraints.
 
-My research interests lie in visual computing and computer vision, connecting image and video processing with learned visual representations and efficient AI. I am particularly interested in understanding how visual systems behave under computational, memory, and hardware constraints.
+## Current Research (UFMG / VeRLab)
+- **Embedded Local Feature Matching:** Investigating learned local feature detection, description, and matching (e.g., XFeat) on resource-constrained platforms (**Rockchip RV1103**, **RISC-V**).
+- **Quantization & Inference Pipelines:** Studying INT8 quantization, numerical divergence across PyTorch/ONNX/RKNN pipelines, and reproducible accuracy–latency trade-offs.
 
-## Research Interests
+## Previous Research (UFPel / ViTech)
+- **FastMIP-360 (VVC 360° Video):** ML-assisted intra-coding complexity reduction achieving **~5.74% encoding-time reduction** at **+0.171% BD-BR**.
+- **Hardware-Aware Transform Coding:** Low-complexity **Multiple Constant Multiplication (MCM)** optimization for VVC **DST-VII** and **DCT-VIII** transforms.
 
-- Computer vision and local feature detection, description, and matching
-- Learned visual representations and their robustness
-- Image and video processing
-- Efficient and hardware-aware AI
-- Embedded vision systems and hardware–software co-design
-- Video coding and algorithmic optimization
-- Multimodal representations and semantic retrieval
+## Technical Stack
+- **Languages:** Python, C++, C, Bash
+- **Vision & ML:** PyTorch, OpenCV, TensorFlow, scikit-learn, NumPy
+- **Embedded AI:** ONNX, RKNN, INT8 Quantization, Rockchip NPU, RISC-V
+- **Video Coding:** VVC, VTM, 360Lib, Intra Prediction, Transform Coding
+- **Engineering:** Linux, Docker, Conda, Git, pytest, Automated Benchmarking
 
-## Research Experience
-
-### MSc Research — UFMG / VeRLab
-
-My current research investigates efficient learned visual representations and local feature matching on resource-constrained embedded platforms. Topics include quantization, numerical behavior across inference pipelines, representation quality, hardware-aware optimization, and systematic cross-platform evaluation.
-
-### Undergraduate Research — UFPel / ViTech
-
-My undergraduate research focused on algorithmic complexity reduction in the **Versatile Video Coding (VVC)** standard. This included machine learning-assisted intra-coding methods for 360° video, as well as transform-coding optimization involving DST-VII, DCT-VIII, and Multiple Constant Multiplication (MCM).
-
-I have also worked on multimedia research involving interpretable audio-visual relationships, multimodal representations, pattern mining, and semantic retrieval.
-
-## Selected Research Projects
-
-### Embedded Local Feature Matching
-Investigating the deployment and evaluation of learned local feature methods on resource-constrained hardware, with emphasis on INT8 quantization, numerical behavior, inference pipelines, and accuracy–efficiency trade-offs.
-
-### FastMIP-360 — VVC Intra-Coding Optimization
-A machine learning-assisted approach to reducing intra-coding complexity for 360° video in VVC. The method achieved approximately **5.74% encoding-time reduction** at approximately **+0.171% BD-BR** in the reported evaluation.
-
-*Project repositories, publications, and technical reports will be linked here as they become publicly available.*
-
-## Technical Skills
-
-- **Programming:** Python, C++, C, Bash
-- **Machine Learning:** PyTorch, TensorFlow, scikit-learn, NumPy
-- **Computer Vision:** OpenCV, scikit-image, local feature detection and matching, object detection and tracking
-- **Embedded AI:** ONNX, RKNN, Rockchip NPU, INT8 quantization, embedded inference
-- **Video Coding:** VVC, VTM, 360Lib, intra prediction, transform coding, MCM
-- **Research Engineering:** Linux, Docker, Git, experiment automation, benchmarking
-
-## Academic Profiles & Contact
-
-- [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
-- [Portfolio](https://portfolio-frank-seven.vercel.app/)
-- [Currículo Lattes](https://lattes.cnpq.br/2871228093388049)
+## Links
+- [LinkedIn](https://www.linkedin.com/in/franklin-de-oliveira/)
 - [ORCID](https://orcid.org/0000-0002-0426-6733)
-
-I welcome scientific exchanges and research collaborations in computer vision, visual computing, efficient AI, embedded systems, and multimedia processing.
+- [Currículo Lattes](https://lattes.cnpq.br/2871228093388049)
+- [Portfolio](https://portfolio-frank-seven.vercel.app/)
+- [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=JtFc1SkAAAAJ&view_op=list_works&gmla=AN_4Zu9Qmv9Yy1mCyvpbd0wzjnc1HW7OynmxChBMe9sdrMKkwEMoExLw0A20wU0bcsUMTTjirkbLJr4vRjtAEa58B2g)
