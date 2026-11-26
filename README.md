@@ -1,85 +1,60 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Transforming+Ideas+into+Code" />
-</h1>
+# Franklin Sales de Oliveira
 
----
+**Visual Computing Researcher | Image Processing, Video Coding & Hardware-Aware AI**
 
-### 👨‍💻 About Me
+MSc student in Computer Science at the **Federal University of Minas Gerais (UFMG)**, affiliated with the **Laboratory for Computer Vision and Robotics (VeRLab)**.
 
-I'm a Computer Science graduate, currently a **Master's student in Computer Science** at the **Department of Computer Science, Federal University of Minas Gerais (DCC/UFMG)**, affiliated with **Laboratory for Computer Vision and Robotics (VeRLab)**.
+My research interests lie in visual computing and computer vision, connecting image and video processing with learned visual representations and efficient AI. I am particularly interested in understanding how visual systems behave under computational, memory, and hardware constraints.
 
-My research sits at the intersection of:
+## Research Interests
 
-```
-Computer Science → Computer Vision → Video Coding / Image Processing
-        → Feature Matching → Efficient AI → Edge / Embedded AI → Research Engineering
-```
+- Computer vision and local feature detection, description, and matching
+- Learned visual representations and their robustness
+- Image and video processing
+- Efficient and hardware-aware AI
+- Embedded vision systems and hardware–software co-design
+- Video coding and algorithmic optimization
+- Multimodal representations and semantic retrieval
 
-I work on making learned vision systems, from local feature matchers, understand, run, and hold up under real computational constraints: limited memory, quantized weights, and NPUs instead of GPUs.
+## Research Experience
 
----
+### MSc Research — UFMG / VeRLab
 
-### 🔬 Current Research
+My current research investigates efficient learned visual representations and local feature matching on resource-constrained embedded platforms. Topics include quantization, numerical behavior across inference pipelines, representation quality, hardware-aware optimization, and systematic cross-platform evaluation.
 
-**Feature Matching on Embedded Hardware (XFeat on the edge)**
-Investigating the deployment of **XFeat**, a lightweight local feature extraction/matching network, on extremely resource-constrained hardware, the **Luckfox Pico (Rockchip RV1103)**, running inference on its **NPU without relying on a GPU**. This involves the full pipeline and its failure modes: PyTorch → ONNX → RKNN conversion, **INT8 quantization**, operator compatibility, memory limitations, and numerical behavior across stages. I run systematic experiments comparing PyTorch, ONNX, and on-device NPU outputs to understand *why* specific components of the model degrade after quantization and deployment.
+### Undergraduate Research — UFPel / ViTech
 
-**Feature Matching Research (broader line of work)**
-This project is evolving into a wider research direction on efficient feature matching, covering local feature detection/description, contrastive and information-theoretic perspectives on feature selection, robustness under quantization, and hardware-aware neural network optimization.
+My undergraduate research focused on algorithmic complexity reduction in the **Versatile Video Coding (VVC)** standard. This included machine learning-assisted intra-coding methods for 360° video, as well as transform-coding optimization involving DST-VII, DCT-VIII, and Multiple Constant Multiplication (MCM).
 
-**Video Coding / Versatile Video Coding (VVC)** 
-Prior research line
-Earlier research on **VVC**, built on **VTM 23.10 + 360Lib 13.6**, focused on ML-assisted **intra prediction for 360° video** and transform-coding optimization (**DST-VII / DCT-VIII**, **Multiple Constant Multiplication**). This work produced **FastMIP-360**, achieving roughly **5.74% encoding time reduction** at approximately **+0.171% BD-BR**, and led to accepted publications at **LASCAS 2025** and **WebMedia 2024**. This line laid the groundwork for my current focus on efficient, hardware-aware vision systems.
+I have also worked on multimedia research involving interpretable audio-visual relationships, multimodal representations, pattern mining, and semantic retrieval.
 
----
-### 🧰 Technical Toolkit
+## Selected Research Projects
 
-**Languages**
-`Python` `C++` `C` `Bash`
+### Embedded Local Feature Matching
+Investigating the deployment and evaluation of learned local feature methods on resource-constrained hardware, with emphasis on INT8 quantization, numerical behavior, inference pipelines, and accuracy–efficiency trade-offs.
 
-**AI & Machine Learning**
-`PyTorch` `ONNX` `TensorFlow` `scikit-learn` `NumPy` 
+### FastMIP-360 — VVC Intra-Coding Optimization
+A machine learning-assisted approach to reducing intra-coding complexity for 360° video in VVC. The method achieved approximately **5.74% encoding-time reduction** at approximately **+0.171% BD-BR** in the reported evaluation.
 
-**Computer Vision**
-`OpenCV` `scikit-image` `XFeat` `YOLO` `DeepSORT` · feature detection/description/matching · object detection · tracking · image processing
+### Interpretable Audio-Visual Pattern Mining
+Research on discovering interpretable relationships between video and audio features to support multimedia dataset characterization and semantic retrieval.
 
-**Efficient AI / Edge AI**
-`RKNN` · Rockchip NPU (`RV1103`) · INT8 quantization · ONNX deployment · embedded inference · hardware-aware optimization
+*Project repositories, publications, and technical reports will be linked here as they become publicly available.*
 
-**Video Coding (VVC)**
-`VTM` `360Lib` · intra prediction · transform coding · Multiple Constant Multiplication (MCM)
+## Technical Skills
 
-**Backend & AI Infrastructure**
-`FastAPI` `Flask` `SQLite` `ChromaDB` `Ollama` · local LLMs · RAG
+- **Programming:** Python, C++, C, Bash
+- **Machine Learning:** PyTorch, TensorFlow, scikit-learn, NumPy
+- **Computer Vision:** OpenCV, scikit-image, local feature detection and matching, object detection and tracking
+- **Embedded AI:** ONNX, RKNN, Rockchip NPU, INT8 quantization, embedded inference
+- **Video Coding:** VVC, VTM, 360Lib, intra prediction, transform coding, MCM
+- **Research Engineering:** Linux, Docker, Git, experiment automation, benchmarking
 
-**Research Engineering & Tools**
-`Docker` `Linux` `Git` `GitHub` `VS Code` `GitHub Copilot` · experiment automation · benchmarking · reproducible research
+## Academic Profiles & Contact
 
----
+- [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
+- [Portfolio](https://portfolio-frank-seven.vercel.app/)
+- [Currículo Lattes](https://lattes.cnpq.br/2871228093388049)
+- [ORCID](https://orcid.org/0000-0002-0426-6733)
 
-
-### 🌐 Let's Connect
-
-📫 **Feel free to reach out:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/franklin-oliveira12/)
-- 🌐 [Portfolio](https://portfolio-frank-seven.vercel.app/)
-- 📜 [Currículo Lattes](https://lattes.cnpq.br/2871228093388049)
-- 🆔 [ORCID](https://orcid.org/0000-0002-0426-6733)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Frankl1sales&theme=buefy-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-### 🧩 3D Contribution Graph
-
-![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
-
-![trophy](https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg)
+I welcome scientific exchanges and research collaborations in computer vision, visual computing, efficient AI, embedded systems, and multimedia processing.
