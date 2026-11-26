@@ -6,7 +6,7 @@
 I research how visual computing systems, from classical video coding to learned local visual features, behave under strict computational, memory, and hardware constraints.
 
 ## Current Research (UFMG / VeRLab)
-- **Embedded Local Feature Matching:** Investigating learned local feature detection, description, and matching (e.g., XFeat) on resource-constrained platforms (**Rockchip RV1103**, **RISC-V**).
+- **Embedded Local Feature Matching:** Investigating learned local feature detection, description, and matching on resource-constrained platforms (**RISC-V**).
 - **Quantization & Inference Pipelines:** Studying INT8 quantization, numerical divergence across PyTorch/ONNX/RKNN pipelines, and reproducible accuracy–latency trade-offs.
 
 ## Previous Research (UFPel / ViTech)
