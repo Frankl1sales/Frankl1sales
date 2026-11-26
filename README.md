@@ -36,9 +36,6 @@ Investigating the deployment and evaluation of learned local feature methods on 
 ### FastMIP-360 — VVC Intra-Coding Optimization
 A machine learning-assisted approach to reducing intra-coding complexity for 360° video in VVC. The method achieved approximately **5.74% encoding-time reduction** at approximately **+0.171% BD-BR** in the reported evaluation.
 
-### Interpretable Audio-Visual Pattern Mining
-Research on discovering interpretable relationships between video and audio features to support multimedia dataset characterization and semantic retrieval.
-
 *Project repositories, publications, and technical reports will be linked here as they become publicly available.*
 
 ## Technical Skills
