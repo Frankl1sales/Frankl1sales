@@ -3,7 +3,7 @@
 **MSc Researcher in Computer Science (UFMG / VeRLab)**  
 *Computer Vision · Efficient Deep Learning · Embedded AI · Video Coding*
 
-I research how visual computing systems—from classical video coding to learned local visual features—behave under strict computational, memory, and hardware constraints.
+I research how visual computing systems, from classical video coding to learned local visual features, behave under strict computational, memory, and hardware constraints.
 
 ## Current Research (UFMG / VeRLab)
 - **Embedded Local Feature Matching:** Investigating learned local feature detection, description, and matching (e.g., XFeat) on resource-constrained platforms (**Rockchip RV1103**, **RISC-V**).
