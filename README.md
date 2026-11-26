@@ -14,7 +14,7 @@ I research how visual computing systems, from classical video coding to learned 
 - **Hardware-Aware Transform Coding:** Low-complexity **Multiple Constant Multiplication (MCM)** optimization for VVC **DST-VII** and **DCT-VIII** transforms.
 
 ## Technical Stack
-- **Languages:** Python, C++, C, Bash
+- **Languages:** Python, C++, C, Bash, VHDL
 - **Vision & ML:** PyTorch, OpenCV, TensorFlow, scikit-learn, NumPy
 - **Embedded AI:** ONNX, RKNN, INT8 Quantization, Rockchip NPU, RISC-V
 - **Video Coding:** VVC, VTM, 360Lib, Intra Prediction, Transform Coding
